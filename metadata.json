@@ -1,0 +1,6 @@
+{
+  "name": "SOA SmartHub",
+  "description": "A modern, AI-powered unified smart-campus web application for Ideasprint 2026 Smart Campus track.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
